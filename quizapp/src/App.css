@@ -1,0 +1,16 @@
+.button-clicked{
+    background-color: green !important;
+    box-shadow: none !important;
+}
+button:hover{
+    cursor: pointer;
+}
+.btn-primary{
+    height:max-content !important;
+}
+@media screen and (max-width:768px){
+    .next-button{
+        width:max-content !important;
+        height:max-content !important;
+    }
+}
